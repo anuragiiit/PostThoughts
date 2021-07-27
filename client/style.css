@@ -1,0 +1,14 @@
+.title{
+    text-align: center;
+}
+
+.mew-form{
+    width: 50%;
+    margin: 0 auto;
+}
+.mews{
+    border: 3px solid black;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
