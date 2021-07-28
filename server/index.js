@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json());
 app.get('/',(req,res)=>
 {
-    res.send('hello aum verma');
+    res.send('hellooo server is running');
 });
 
 
